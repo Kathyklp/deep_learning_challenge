@@ -1,5 +1,6 @@
 # deep_learning_challenge
 Module 21
+please use the deep_learningfinal.ipynb  file
 using pandas, scikit-learn's StandardScaler()
 we must compile train and evaluate the neural network model
 the charity_data.csv file is missing
